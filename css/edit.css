@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+
+body {
+  background-image: url("https://source.unsplash.com/PC91Jm1DlWA");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Comfortaa", cursive;
+  color: white !important;
+  font-size: 17px;
+}
+
+section {
+  background: #b8b4b038 !important;
+  border-radius: 16px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(17px) !important;
+  -webkit-backdrop-filter: blur(15.4px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  padding: 40px;
+  max-width: 900px;
+  margin: 50px auto;
+  font-family: "Comfortaa", cursive !important;
+}
+
+input, select {
+  background-color: transparent;
+  font-size: 15px;
+  color: white;
+  padding: 10px;
+  font-family: "Comfortaa", cursive !important;
+}
+
+
+.submit-btn {
+    display: inline-block;
+    color: #fff; 
+    border-radius: 10px !important;
+    background: linear-gradient(145deg, #ffffff, #e6e6e6) !important;
+    box-shadow:  inset 2px 2px 0px #d9d9d9,
+               inset -2px -2px 0px #ffffff !important;
+    width: 300px !important;
+    font-family: 'Comfortaa', cursive !important;
+    font-size: 20px !important;
+    letter-spacing: 2px;
+    color: black;
+    font-size: 16px;
+    padding: 8px 16px;
+    border: none;
+    width:200px;
+    cursor: pointer;
+  }
+  

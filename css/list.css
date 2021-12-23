@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+
+body {
+  background-image: url("https://source.unsplash.com/PC91Jm1DlWA");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Comfortaa", cursive;
+  color: white;
+  font-size: 15px;
+}
+
+section {
+  background: #b8b4b038 !important;
+  border-radius: 16px !important;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
+  backdrop-filter: blur(17px) !important;
+  -webkit-backdrop-filter: blur(15.4px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+
+
+h2{
+    font-family: 'DM Serif Display', serif !important;
+    color: transparent;
+    -webkit-text-stroke: #ffff 0.5px;
+    text-shadow: #000000 2px 1px 2px;
+}
+
+.list {
+    max-width: 1200px;
+    margin: 50px auto;
+    position: relative;
+  
+}
+
+nav .btn{
+  width: 150px !important;
+}
+
+.btn{
+    height: 30px !important;
+    width: 75px !important;
+    background-color: white !important;
+    margin: 2px !important;
+    padding: 5px !important;
+    text-align: center !important;
+    color: black !important;
+    font-size: 15px !important;
+}
